@@ -7,7 +7,7 @@ export async function generateMetadata() {
 
 const Video=()=>{
     return (
-        <div>
+        <div className="h-screen flex items-center justify-center">
             Video Page
         </div>
     )

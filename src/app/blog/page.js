@@ -7,7 +7,7 @@ export async function generateMetadata() {
 
 const Blog=()=>{
     return (
-        <div>
+        <div className="h-screen flex items-center justify-center">
             Blog Page
         </div>
     )
